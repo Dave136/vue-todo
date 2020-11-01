@@ -1,4 +1,6 @@
 # vue-todo
+A simple ToDo app made with Vue 3 and composition API
+See [Composition API](https://v3.vuejs.org/guide/composition-api-introduction.html#why-composition-api)
 
 ## Project setup
 ```
